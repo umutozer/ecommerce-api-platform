@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+Backend/obj/
+Backend/bin/
+Frontend/node_modules/
+Frontend/dist/
